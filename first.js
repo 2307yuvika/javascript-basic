@@ -1,4 +1,4 @@
-document.getElementById("demo").innerHTML =
+ document.getElementById("demo").innerHTML =
 "The total is: " + total;
 document.getElementById("first").innerHTML = text;
 document.getElementById("para").innerHTML = num;
